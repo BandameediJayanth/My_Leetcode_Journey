@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0115-distinct-subsequences) |
 ## Tree
 |  |
@@ -39,8 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BandameediJayanth/My_Leetcode_Journey/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
